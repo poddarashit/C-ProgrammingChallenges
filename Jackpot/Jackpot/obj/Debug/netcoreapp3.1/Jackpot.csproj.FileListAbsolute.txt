@@ -1,0 +1,11 @@
+C:\Users\Ashit\source\repos\Jackpot\Jackpot\bin\Debug\netcoreapp3.1\Jackpot.exe
+C:\Users\Ashit\source\repos\Jackpot\Jackpot\bin\Debug\netcoreapp3.1\Jackpot.deps.json
+C:\Users\Ashit\source\repos\Jackpot\Jackpot\bin\Debug\netcoreapp3.1\Jackpot.runtimeconfig.json
+C:\Users\Ashit\source\repos\Jackpot\Jackpot\bin\Debug\netcoreapp3.1\Jackpot.runtimeconfig.dev.json
+C:\Users\Ashit\source\repos\Jackpot\Jackpot\bin\Debug\netcoreapp3.1\Jackpot.dll
+C:\Users\Ashit\source\repos\Jackpot\Jackpot\bin\Debug\netcoreapp3.1\Jackpot.pdb
+C:\Users\Ashit\source\repos\Jackpot\Jackpot\obj\Debug\netcoreapp3.1\Jackpot.csprojAssemblyReference.cache
+C:\Users\Ashit\source\repos\Jackpot\Jackpot\obj\Debug\netcoreapp3.1\Jackpot.AssemblyInfoInputs.cache
+C:\Users\Ashit\source\repos\Jackpot\Jackpot\obj\Debug\netcoreapp3.1\Jackpot.AssemblyInfo.cs
+C:\Users\Ashit\source\repos\Jackpot\Jackpot\obj\Debug\netcoreapp3.1\Jackpot.dll
+C:\Users\Ashit\source\repos\Jackpot\Jackpot\obj\Debug\netcoreapp3.1\Jackpot.pdb
